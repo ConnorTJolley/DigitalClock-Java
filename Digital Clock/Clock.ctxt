@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\r\n\ Called\ by\ the\ browser\ or\ applet\ viewer\ to\ inform\ this\ JApplet\ that\ it\r\n\ has\ been\ loaded\ into\ the\ system.\ It\ is\ always\ called\ before\ the\ first\ \r\n\ time\ that\ the\ start\ method\ is\ called.\r\n
+comment1.params=
+comment1.target=Clock()
+comment10.params=
+comment10.target=void\ showTime()
+comment11.params=g
+comment11.target=void\ paint(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=int\ setSeconds()
+comment5.params=g2
+comment5.target=void\ showDots(java.awt.Graphics2D)
+comment6.params=x\ y\ k
+comment6.target=void\ digitalNum(int,\ int,\ int)
+comment7.params=num
+comment7.target=void\ setNumber(int)
+comment8.params=
+comment8.target=void\ run()
+comment9.params=a\ b
+comment9.target=int\ divide(int,\ int)
+numComments=12
